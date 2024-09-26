@@ -37,7 +37,3 @@ May the force be with you!
 ## Framework NestJS
 
 Para a resolução do problema foi escolhido o framework NestJS
-
-### Banco de dados MongoDB Atlas
-
-Para a realização deste teste fiz uma conta com e-mail temporário no MongoDB Atlas, abaixo seguem os dados
