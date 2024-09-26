@@ -21,7 +21,6 @@ Para possibilitar a equipe de front criar essa aplicação, queremos desenvolver
 - Buscar por nome
 - Buscar por ID
 - Remover planeta
--
 
 - Linguagem permitida no desafio: Node.JS
 - Bando de dados permitido: noSQL, preferencialmente MongoDB
@@ -42,35 +41,3 @@ Para a resolução do problema foi escolhido o framework NestJS
 ### Banco de dados MongoDB Atlas
 
 Para a realização deste teste fiz uma conta com e-mail temporário no MongoDB Atlas, abaixo seguem os dados
-
- ```
-// Dados da conta
-E-mail => yibavac776@moxkid.com
-Senha =>  abcd1234
-
-// Dados do cluster
-Usuário: admin
-Senha: admin
-```
-
-### Subindo o projeto
-
-1. Executar o comando abaixo para baixar os pacotes do nodejs.
-
-```
-yarn
-```
-
-2. Executar o comando abaixo para inicializar o servidor
-
-```
-yarn start:dev
-```
-
-### Documentação
-
-A documentação foi feita utilizando Swagger, e se encontra disponível no endereço:
-
-```
-http://localhost:3333/api
-```
