@@ -1,0 +1,13 @@
+### POST PLANETS
+POST http://localhost:3000/planets
+Content-Type: application/json
+
+{
+  "name": "Tatooine",
+  "climate": "arid",
+  "terrain": "desert"
+}
+
+### GET PLANETS
+GET http://localhost:3000/planets
+Content-Type: application/json

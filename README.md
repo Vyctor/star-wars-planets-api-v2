@@ -16,11 +16,12 @@ Para possibilitar a equipe de front criar essa aplicação, queremos desenvolver
 
 ## Funcionalidades desejadas
 
-- Adicionar um planeta (com nome, clima e terreno)
-- Listar planetas
-- Buscar por nome
-- Buscar por ID
-- Remover planeta
+[x] Adicionar um planeta (com nome, clima e terreno)
+[x] Listar planetas
+[ ] Buscar por nome
+[ ] Buscar por ID
+[ ] Remover planeta
+[ ] Adicionar cache na busca pelos planetas
 
 - Linguagem permitida no desafio: Node.JS
 - Bando de dados permitido: noSQL, preferencialmente MongoDB
